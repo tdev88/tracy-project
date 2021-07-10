@@ -19,10 +19,6 @@ a {
   color: green;
 }
 
-img {
-  width: 1000px;
-}
-
 h1 {
   color: black;
   font-weight: bold;
@@ -52,10 +48,6 @@ h1, h2 {
 h3 + P {
   font-style: italic;
 }
-
-/* h3 ~ p {
-  margin: 0;
-} */
 
 .divider > section {
   border-bottom: 1px dashed #343434;
@@ -89,7 +81,7 @@ header {
   background-position: top right;
   padding-top: 50px;
 }
--education p {
+.education p {
   width: 60%;
 }
 .education-item {
