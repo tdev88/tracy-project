@@ -77,8 +77,8 @@ header {
 .education {
   background: lightgrey;
   /* background-image: url(../images/sharon-mccutcheon-unsplash.jpg); */
-  background-size: cover;
-  background-position: right;
+  /* background-size: cover; */
+  /* background-position: right; */
   padding-top: 50px;
 }
 .education p {
