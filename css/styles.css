@@ -1,6 +1,6 @@
 /* ---Global Styles--- */
 html {
-  box-sizing; border-box;
+  box-sizing: border-box;
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -76,13 +76,14 @@ header {
 /* ---Education--- */
 .education {
   background: lightgrey;
-  background-image: url(../images/sharon-mccutcheon-unsplash.jpg);
+  /* background-image: url(../images/sharon-mccutcheon-unsplash.jpg); */
   background-size: cover;
-  background-position: top right;
+  background-position: right;
   padding-top: 50px;
 }
 .education p {
   width: 60%;
+  font-weight: bolder;
 }
 .education-item {
   display: grid;
